@@ -1,0 +1,6 @@
+c:\users\vit\documents\visual studio 2015\Projects\test_app\test_app\bin\Debug\test_app.exe.config
+c:\users\vit\documents\visual studio 2015\Projects\test_app\test_app\bin\Debug\test_app.exe
+c:\users\vit\documents\visual studio 2015\Projects\test_app\test_app\bin\Debug\test_app.pdb
+c:\users\vit\documents\visual studio 2015\Projects\test_app\test_app\obj\Debug\test_app.exe
+c:\users\vit\documents\visual studio 2015\Projects\test_app\test_app\obj\Debug\test_app.pdb
+C:\Users\Vit\Documents\Visual Studio 2015\Projects\test_app\test_app\obj\Debug\test_app.csprojResolveAssemblyReference.cache
